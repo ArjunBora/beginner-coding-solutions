@@ -1,10 +1,10 @@
-#Q. Write a Program to Find GCD or HCF of two numbers entered by user
+#Q. Write a Program to Find the HCF of two numbers entered by user
 
-def gcd(a, b):
+def hcf(a, b):
     while b:
         a, b = b, a % b
     return a
 
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
-print("GCD:", gcd(num1, num2))
+print("HCF:", hcf(num1, num2))
