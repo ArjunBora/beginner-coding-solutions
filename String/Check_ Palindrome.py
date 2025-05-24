@@ -1,4 +1,4 @@
-#Q. Write a C++ program to check if a given string is a Palindrome or not.
+#Q. Write a program to check if a given string is a Palindrome or not.
 
 string = input("Enter a string: ")
 clean_str = ''.join(ch.lower() for ch in string if ch.isalnum())
