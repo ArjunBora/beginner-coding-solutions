@@ -24,7 +24,7 @@ The repository is organized by topic with each section containing:
 1. **Basic Operations**: Hello World, arithmetic, data types, etc.
 2. **Conditionals**: Even/odd, leap year, quadratic equations
 3. **Loops**: Factorials, Fibonacci, prime numbers, patterns
-4. **Functions & Recursion**: Prime checks, number conversions
+4. **Functions**: Prime checks, number conversions
 5. **Arrays**: Matrix operations, statistics
 6. **Strings**: Character analysis, transformations
 
