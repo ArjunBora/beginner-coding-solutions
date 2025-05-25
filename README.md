@@ -6,7 +6,7 @@ This repository contains Python solutions for a comprehensive set of beginner pr
 - Basic I/O operations
 - Conditional statements (if-else)
 - Loops (for, while)
-- Functions and recursion
+- Functions
 - Arrays and matrices
 - String manipulation
 
